@@ -1,2 +1,2 @@
 # init-repo
-initial repo
+initial repository
